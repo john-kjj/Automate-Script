@@ -5,6 +5,7 @@ This script was used to automate the sending of live location on WhatsApp using 
 The event trigger is by Alarm.
 
 Phone Model: Samsung Galaxy S9
+
 Other Details: Navigation Bar hidden
 
 ## Backstory
